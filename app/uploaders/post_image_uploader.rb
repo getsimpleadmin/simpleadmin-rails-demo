@@ -1,0 +1,2 @@
+class PostImageUploader < BaseUploader
+end
